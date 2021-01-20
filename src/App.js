@@ -4,7 +4,7 @@ import wosh from "./wosh.jpg";
 function App() {
   return (
     <div class="app">
-      <img src={wosh}></img>
+      <img alt="wosh-pic" src={wosh}></img>
       <Footer />
     </div>
   );
